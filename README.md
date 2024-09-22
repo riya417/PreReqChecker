@@ -1,0 +1,1 @@
+Developed a Java application to validate prerequisite classes in the Rutgers Computer Science curriculum using HashMap and AdjacentList data structures. Implemented functionality to read course and prerequisite data from various input files, process the data, and generate formatted outputs that help determine eligible courses, prerequisite requirements, and course scheduling. 
